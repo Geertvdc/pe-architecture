@@ -6,7 +6,6 @@
   },
   "postCreateCommand": ".devcontainer/postCreateCommand.sh",
   "postStartCommand": ".devcontainer/postStartCommand.sh",
-  "workspaceFolder": "/workspaces/pe-architect-course",
   "hostRequirements": {
     "cpus": 4
   },
